@@ -1,1 +1,4 @@
-.data-vis-site/*
+.data-vis-site/
+__pycache__/
+
+set_flask_app_var.sh
